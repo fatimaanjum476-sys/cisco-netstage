@@ -1,0 +1,9 @@
+{
+  "app_name": "NetSage AI",
+  "model": "claude-sonnet-4-6",
+  "max_tokens": 1000,
+  "confidence_threshold_for_auto_display": "Medium",
+  "audit_log_path": "audit_log.csv",
+  "cases_path": "cases.csv",
+  "prompt_template_path": "diagnose_prompt.md"
+}
